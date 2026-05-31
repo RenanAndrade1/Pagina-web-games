@@ -1,0 +1,14 @@
+body {
+    background-color: #161625;
+    color: white;
+}
+.w3-sidebar {
+width: 150px;
+background: #2B2B45;
+}
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+}
+#main {
+    margin-left: 150px;
+}
